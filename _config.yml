@@ -1,5 +1,6 @@
 Theme: jekyll-theme-minimal
 Title: Michael's CV Site
+description: Michael's Homepage
 
 github:
   is_project_page: false
