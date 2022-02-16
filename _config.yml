@@ -1,2 +1,8 @@
-Theme: jekyll-remote-theme
+Theme: jekyll-theme-minimal
+logo: 
 Title: Michael's CV Site
+
+github:
+  is_project_page: false
+  is_user_page: false
+  
