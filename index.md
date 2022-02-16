@@ -38,7 +38,7 @@ April 2021-August 2021, Paraprofessional, Shoemaker Elementary School, Lynn Publ
 
 June 2016-April 2020, Program Presenter (+ Intern, Program Assistant), Museum of Science, Boston
 
-## PROFESSIONAL & UNIVERSITY SERVICE:
+### PROFESSIONAL & UNIVERSITY SERVICE:
 
 **January 2022-Present**, Team Member, Information Technology (Humanities), Boston College
 
@@ -54,7 +54,7 @@ June 2016-April 2020, Program Presenter (+ Intern, Program Assistant), Museum of
 
 **January 2019**, Volunteer Research Assistant (Dr. Brittney Jeye), Boston College/Living Laboratory at Museum of Science, Boston
 
-## GRADUATE COURSEWORK:
+### GRADUATE COURSEWORK:
 
 **FA21**, Philosophy of Law, Dr. Van Rooy
 
