@@ -8,11 +8,11 @@
 
 **Expected May 2023, Boston College**, Boston, MA
 
-Masters of Arts in Philosophy. Areas of Interest: Marxism, German Idealism, 19th & 20th Century History of Philosophy
+*Masters of Arts in Philosophy*. Areas of Interest: Marxism, German Idealism, 19th & 20th Century History of Philosophy
 
 **May 2020, Emmanuel College**, Boston, MA
 
-Bachelors of Arts in Philosophy, Minor in Psychology, Graduated with Distinction, Areas of Interest: Political Philosophy, Philosophy of Mind, Human Rights
+*Bachelors of Arts in Philosophy*, Minor in Psychology, Graduated with Distinction, Areas of Interest: Political Philosophy, Philosophy of Mind, Human Rights
 
 ### PRESENTATIONS:
 
